@@ -1,0 +1,15 @@
+header {
+    background-color: #292823;
+    color: white;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.div1{
+    padding-top: 20px;
+    padding-left: 350px;
+    padding-right: 350px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
